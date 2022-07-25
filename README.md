@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Ferramenta de terminal em alpha para registro de funcionários e aumento de salário.
+Ferramenta de terminal em alpha para registro de funcionários e aumento de salário. Feito na linguagem Java.
 
 ## Como usar
 
